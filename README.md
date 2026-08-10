@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0137-single-number-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
+## String
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
