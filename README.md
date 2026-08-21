@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -115,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
