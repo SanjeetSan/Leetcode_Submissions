@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
