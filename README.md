@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
