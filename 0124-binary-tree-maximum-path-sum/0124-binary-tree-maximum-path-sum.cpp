@@ -22,9 +22,7 @@ public:
     }
     int maxPathSum(TreeNode* root) {
         int maxsum = -123456789;
-        // while(root != nullptr){
-            findsum(root, maxsum);
-        // }   
+        findsum(root, maxsum);
         return maxsum;
     }
 };
