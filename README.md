@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -105,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
