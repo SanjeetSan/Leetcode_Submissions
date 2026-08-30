@@ -11,18 +11,17 @@
  */
 class Solution {
 public:
-    int sum(TreeNode* root, int& child){
+    int sum(TreeNode* root){
         if(root == nullptr){
             return 0;
         }
-        int left = sum(root->left, child);
-        int right = sum(root->right, child);
+        int left = sum(root->left);
+        int right = sum(root->right);
         return root->val + left + right;
     }
     bool checkTree(TreeNode* root) {
-        int rootval = root->val;
-        int child = sum(root, child);
-        cout << child;
-        return child - rootval == rootval;
+        int rootval = root->val; 
+        // cout << child;
+        return sum(root) - rootval == rootval;
     }
 };
