@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
