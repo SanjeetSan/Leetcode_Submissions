@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1669-merge-in-between-linked-lists) |
 ## Sliding Window
 |  |
 | ------- |
