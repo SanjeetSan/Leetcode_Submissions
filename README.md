@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2544-alternating-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2544-alternating-digit-sum) |
 ## Binary Search Tree
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Ternary Search
 |  |
 | ------- |
