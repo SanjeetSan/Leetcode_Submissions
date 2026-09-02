@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0137-single-number-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2544-alternating-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2544-alternating-digit-sum) |
 ## Binary Search Tree
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
