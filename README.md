@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0542-01-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0542-01-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0542-01-matrix) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Ternary Search
