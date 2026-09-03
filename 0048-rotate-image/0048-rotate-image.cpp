@@ -1,18 +1,19 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        
-        //Transpose
-        for (int i = 0; i < m; i++) {
-            for (int j = i + 1; j < m; j++) {
-                swap(matrix[i][j], matrix[j][i]);
+        int size = matrix.size();
+        //Approach -> Transpose -> reverse every columns
+
+        //Step - 1: Transpose
+        for(int row = 0; row < size; row++){
+            for(int col = row + 1; col < size; col++){
+                swap(matrix[col][row], matrix[row][col]);
             }
         }
 
-        //Reverse Rows
-        for (int i = 0; i < m; i++) {
-            reverse(matrix[i].begin(), matrix[i].end());
+        //Step - 2: Reverse Rows
+        for(int row = 0; row < size; row++){
+            reverse(matrix[row].begin(), matrix[row].end());
         }
     }
 };
