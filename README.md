@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0542-01-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -246,4 +249,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
