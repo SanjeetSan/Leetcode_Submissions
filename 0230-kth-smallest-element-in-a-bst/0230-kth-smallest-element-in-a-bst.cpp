@@ -11,18 +11,17 @@
  */
 class Solution {
 public:
-    int countOfNode = 0, answer = -1;
-    int kthSmallest(TreeNode* root,int k) {
+    int c = 0, ans = 0;
+    int kthSmallest(TreeNode* root, int k) {
         if(root == nullptr){
             return 0;
         }
-        int left = kthSmallest(root -> left, k);
-        countOfNode++;
-        if(countOfNode == k){
-            answer = root -> val;
-            return answer;
+        kthSmallest(root->left, k);
+        c++;
+        if(c == k){
+            ans = root->val;
         }
-        int right = kthSmallest(root -> right, k);
-        return answer;
+        kthSmallest(root->right, k);
+        return ans;
     }
 };
