@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2544-alternating-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2544-alternating-digit-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
