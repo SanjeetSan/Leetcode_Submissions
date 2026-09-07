@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0136-single-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
