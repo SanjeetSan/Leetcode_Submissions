@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2544-alternating-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2544-alternating-digit-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Binary Search Tree
