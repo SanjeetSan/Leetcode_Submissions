@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0169-majority-element/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
