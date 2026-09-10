@@ -13,20 +13,19 @@
 class Solution {
 public:
     int findPossiblePaths(TreeNode* root, long long CurrSum, int targetSum) {
-        if (root == nullptr) {
+        if (!root) {
             return 0;
         }
         int TotalPaths = 0;
         CurrSum += root->val;
-        if (CurrSum == targetSum) {
-            TotalPaths++;
-        }
+        TotalPaths += (CurrSum == targetSum) ? 1 : 0;
         TotalPaths += findPossiblePaths(root->left, CurrSum, targetSum);
         TotalPaths += findPossiblePaths(root->right, CurrSum, targetSum);
         return TotalPaths;
     }
+
     int pathSum(TreeNode* root, int targetSum) {
-        if (root == nullptr) {
+        if (!root) {
             return 0;
         }
         long long CurrSum = 0;
