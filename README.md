@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
