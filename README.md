@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0091-decode-ways) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
