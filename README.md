@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0242-valid-anagram) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1669-merge-in-between-linked-lists) |
 ## Sliding Window
 | Problem Name | Difficulty |
