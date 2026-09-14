@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2544-alternating-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2544-alternating-digit-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0148-sort-list/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
