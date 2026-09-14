@@ -30,14 +30,11 @@ class Solution {
                 int rr = curr[0] + dir[sides][0];
                 int rc = curr[1] + dir[sides][1];
 
-                // Outside
+                // Outside and Water
                 if (rr < 0 || rc < 0 || rr >= m || rc >= n || grid[rr][rc] == 0) {
                     answer++;
                 }
-                // Water
-                // else if (grid[rr][rc] == 0) {
-                //     answer++;
-                // }
+
                 // Unvisited land
                 else if (grid[rr][rc] == 1) {
                     grid[rr][rc] = 2;
