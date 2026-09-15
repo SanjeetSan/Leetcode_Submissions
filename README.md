@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0148-sort-list/) | Medium |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
