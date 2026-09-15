@@ -11,24 +11,17 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        vector<int> arr;
-        ListNode* temp = head;
-        while(temp){
-            arr.push_back(temp->val);
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(--k){
+            fast = fast->next;
         }
-        int n = arr.size();
-        int fromFirst = arr[k - 1];
-        int fromLast = arr[n - k];
-        // cout << fromFirst  << " " << fromLast << endl;
-        arr[k - 1] = fromLast;
-        arr[n - k] = fromFirst;
-        ListNode* Answer = new ListNode();
-        ListNode* dummy = Answer;
-        for(int n : arr){
-            Answer->next = new ListNode(n);
-            Answer = Answer->next;
+        ListNode* start = fast;
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next;
         }
-        return dummy->next;        
+        swap(slow->val, start->val);
+        return head;
     }
 };
