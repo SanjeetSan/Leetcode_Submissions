@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0392-is-subsequence) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1669-merge-in-between-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
