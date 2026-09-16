@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0056-merge-intervals/) | Medium |
+| [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
