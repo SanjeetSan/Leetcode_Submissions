@@ -1,19 +1,20 @@
 class Solution {
     public int firstUniqChar(String s) {
-        Queue<Character> q = new ArrayDeque<>();
+        Queue<int[]> q = new ArrayDeque<>();
         int[] count = new int[26];
-        for (char c : s.toCharArray()) {
-            count[c - 'a']++;
-            if (count[c - 'a'] == 1) {
-                q.add(c);
+        for (int i = 0; i < s.length(); i++) {
+            int c = s.charAt(i) - 'a';
+            count[c]++;
+            if (count[c] == 1) {
+                q.add(new int[]{c, i});
             }
         }
-        for (char c : s.toCharArray()) {
-            if (count[c - 'a'] == 1 && c == q.peek()) {
-                return s.indexOf(c);
-            }
+        while (!q.isEmpty()) {
+            int[] p = q.peek();
+            if (count[p[0]] == 1) return p[1];
             q.poll();
         }
         return -1;
     }
 }
+    
