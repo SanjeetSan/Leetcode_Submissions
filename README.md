@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0463-island-perimeter/) | Easy |
