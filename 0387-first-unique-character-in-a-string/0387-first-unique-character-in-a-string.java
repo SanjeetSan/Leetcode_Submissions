@@ -1,17 +1,18 @@
 class Solution {
     public int firstUniqChar(String s) {
+        Queue<Character> q = new ArrayDeque<>();
         int[] count = new int[26];
-
-        for (int i = 0; i < s.length(); i++) {
-            int index = s.charAt(i) - 'a';
-            count[index]++;
-        }
-
-        for (int i = 0; i < s.length(); i++) {
-            int index = s.charAt(i) - 'a';
-            if (count[index] == 1) {
-                return i;
+        for (char c : s.toCharArray()) {
+            count[c - 'a']++;
+            if (count[c - 'a'] == 1) {
+                q.add(c);
             }
+        }
+        for (char c : s.toCharArray()) {
+            if (count[c - 'a'] == 1 && c == q.peek()) {
+                return s.indexOf(c);
+            }
+            q.poll();
         }
         return -1;
     }
