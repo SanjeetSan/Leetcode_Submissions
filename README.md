@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1859-sorting-the-sentence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -404,4 +406,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
