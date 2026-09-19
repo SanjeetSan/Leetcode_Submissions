@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0072-edit-distance](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -407,4 +410,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
