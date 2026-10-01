@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0072-edit-distance](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0091-decode-ways) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0739-daily-temperatures](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
