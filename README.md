@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0184-department-highest-salary](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0184-department-highest-salary/) | Medium |
 | [1757-recyclable-and-low-fat-products](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
