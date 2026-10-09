@@ -18,12 +18,10 @@ public:
         }
         int left = findHeight(root->left);
         if (left == -1) {
-            cout << 1 << " ";
             return -1;
         }
         int right = findHeight(root->right);
         if (right == -1) {
-            cout << 2 << " ";
             return -1;
         }
         if (abs(left - right) > 1) {
