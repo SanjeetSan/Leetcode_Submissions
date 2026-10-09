@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1859-sorting-the-sentence](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
