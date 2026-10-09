@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0226-invert-binary-tree) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
