@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0338-counting-bits) |
