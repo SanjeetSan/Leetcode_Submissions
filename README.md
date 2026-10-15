@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1122-relative-sort-array](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/1122-relative-sort-array/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SanjeetSan/Leetcode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -474,4 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SanjeetSan/Leetcode_Submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
